@@ -3,6 +3,7 @@ sum = 0
 1.upto 7 do |i|
   sum += i
 end
-puts i
+puts sum
+
 
   
